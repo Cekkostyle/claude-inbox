@@ -1,0 +1,7 @@
+{
+  "name": "inbox",
+  "version": "0.1.0",
+  "description": "Notizzettel über dem Prompt: Aufgaben in .claude/INBOX.md notieren, während Claude arbeitet; nach dem Turn arbeitet Claude sie ab.",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

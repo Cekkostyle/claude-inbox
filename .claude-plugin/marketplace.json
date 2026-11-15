@@ -1,0 +1,5 @@
+{
+  "name": "claude-inbox",
+  "owner": { "name": "Cekkostyle" },
+  "plugins": [{ "name": "inbox", "source": "./" }]
+}
